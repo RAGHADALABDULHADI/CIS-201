@@ -231,3 +231,16 @@ nav img {
 .design-col:hover .layer h4 {
     opacity: 1;
 }
+/* contact */
+.contact-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+.contact-icons img {
+    width: 50px; /* Set the size of the icons */
+    margin: 10px;
+    transition: transform 0.3s ease;
+}
+.contact-icons img:hover {
+    transform: scale(1.2);
+}
